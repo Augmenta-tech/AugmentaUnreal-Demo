@@ -1,0 +1,4 @@
+[submodule "Plugins/AugmentaUnreal"]
+	path = Plugins/AugmentaUnreal
+	url = git@github.com:Theoriz/AugmentaUnreal.git
+	branch = master
