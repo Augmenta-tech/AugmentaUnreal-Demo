@@ -2,6 +2,11 @@
 
 This Unreal (4.24) project contains the `Augmenta Unreal Plugin` and a sample map with a Blueprint to test the plugin.
 
+## Implementation
+
+Protocol V1
+Protocol V2 data are not parsed yet
+
 ## Files for Testing
 
  - `Content/Maps/AugmentaDemo.umap` : This map contains the `BP_AugmentaTest` actor for testing.
