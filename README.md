@@ -1,6 +1,6 @@
 # Augmenta Unreal Demo
 
-This Unreal (4.24) project contains the `Augmenta Unreal Plugin` and a sample map with a Blueprint to test the plugin.
+This Unreal (4.25) project contains the `Augmenta Unreal Plugin` and a sample map with a Blueprint to test the plugin.
 
 ## Files for Testing
 
