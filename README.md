@@ -1,6 +1,6 @@
-# Augmenta Unreal Demo
+# [Augmenta](https://www.augmenta-tech.com) [Unreal](https://www.unrealengine.com) Demo
 
-This Unreal (4.25) project contains the `Augmenta Unreal Plugin` and a sample map with a Blueprint to test the plugin.
+This Unreal (4.25) project contains the [Augmenta Unreal plugin](https://github.com/Augmenta-tech/AugmentaUnreal) and a sample map with a Blueprint to test the plugin.
 
 ## Files for Testing
 
@@ -19,4 +19,4 @@ This Unreal (4.25) project contains the `Augmenta Unreal Plugin` and a sample ma
 
 There are 2 ways to test this Demo.
  1. Using the Physical Augmenta Nodes that send data to an AugmentaFusion software on a PC and using the IP address of that PC as the `Receive Ip Address`.
- 2. Using the [AugmentaSimulator](https://github.com/Theoriz/Augmenta-Simulator/releases). The default output Ip address and Port in the Augmenta simulator are set to `127.0.0.1` and `12000` respectively. So the demo should work without any modifications.
+ 2. Using the [AugmentaSimulator](https://github.com/Augmenta-tech/Augmenta-Simulator/releases). The default output Ip address and Port in the Augmenta simulator are set to `127.0.0.1` and `12000` respectively. So the demo should work without any modifications.
