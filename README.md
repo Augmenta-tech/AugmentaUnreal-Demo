@@ -1,6 +1,6 @@
 # [Augmenta](https://www.augmenta-tech.com) [Unreal](https://www.unrealengine.com) Demo
 
-This Unreal (5.0) project contains the [Augmenta Unreal plugin](https://github.com/Augmenta-tech/AugmentaUnreal) and a sample map with a Blueprint to test the plugin.
+This Unreal 5.1 project contains the [Augmenta Unreal plugin](https://github.com/Augmenta-tech/AugmentaUnreal) and a sample map with a Blueprint to test the plugin.
 
 ## Files for Testing
 
