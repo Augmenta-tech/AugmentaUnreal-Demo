@@ -1,3 +1,7 @@
+/!\ Deprecated repository /!\
+
+New plugin and demo are accessible here : [https://www.unrealengine.com/marketplace/en-US/product/live-link-augmenta](https://www.unrealengine.com/marketplace/en-US/product/live-link-augmenta)
+
 # [Augmenta](https://www.augmenta-tech.com) [Unreal](https://www.unrealengine.com) Demo
 
 This Unreal 5.1 project contains the [Augmenta Unreal plugin](https://github.com/Augmenta-tech/AugmentaUnreal) and a sample map with a Blueprint to test the plugin.
